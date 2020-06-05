@@ -1,3 +1,4 @@
 this is a test
 updated for commit
 .git rm
+.git status
